@@ -1,5 +1,5 @@
 #Preparing Dataset
-credit14 <- read.csv("C:/Users/oa21acn/credit14.csv")
+credit14 <- read.csv("C:/Users/dkuffofficial/credit14.csv")
 library(ISLR)
 library(ggplot2)
 library(rcompanion)
