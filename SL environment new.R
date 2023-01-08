@@ -104,9 +104,9 @@ table(credit14.complete$Creditability, data=credit14.lda.predict$class)
 .table<-table(credit14.complete$Creditability, data=credit14.lda.predict$class)
 addmargins(.table)
 round(addmargins(prop.table(.table,1)*100,2),2) #express table entries as fraction Of marginal table
-# prop.table(.table,1) #(try it youself?)
+# prop.table(.table,1) 
 ncorrect<-sum(diag(.table))
-# diag(.table) #(try it youself?)
+# diag(.table) 
 ntotal<-sum(.table)
 cat(ncorrect," correctly allocated out of ",ntotal," (",100*ncorrect/ntotal,"%)","\n")
 
