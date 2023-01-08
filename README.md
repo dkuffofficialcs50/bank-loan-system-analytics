@@ -1,12 +1,7 @@
 # bank-loan-system-analytics
-This project utilised the four supervised learning technique to classify and make predictions on a dataset of credit lender/bank customer information. however, all Identifiers have been removed before using the data set. 
-For this Analysis,  we will Utilize the four major techniques of supervised learning which include;
+In this study, a dataset of customer information from banks and credit lenders was classified and predicted using four supervised learning techniques. However, before using the data set, all Identifiers were eliminated. We will use the four main supervised learning approaches for this analysis, which are as follows:
 
-Decision Tree,
-Logistic Regression,
-Discriminant Analysis, and
-K-Nearest Neighbours
+Discriminant analysis, K-Nearest Neighbors, Decision Tree, and Logistic Regression
 
-All these techniques were carried out using R Studio and the Data set Provided is named CREDIT 14.
-A powerpoint presentation of findings is attached to this Repository.
+R Studio was used to perform each of these procedures, and the provided data set is called CREDIT 14. There is a powerpoint presentation of the findings in this repository.
 
