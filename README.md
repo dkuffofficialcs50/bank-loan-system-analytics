@@ -1,5 +1,5 @@
 # bank-loan-system-analytics
-In this study, a dataset of customer information from banks and credit lenders was classified and predicted using four supervised learning techniques. However, before using the data set, all Identifiers were eliminated. We will use the four main supervised learning approaches for this analysis, which are as follows:
+In this study, a dataset of customer information from banks and credit lenders was classified and predicted using four supervised learning techniques. However, before using the data set, all Identifiers were eliminated. I used the four main supervised learning approaches for this analysis, which are as follows:
 
 Discriminant analysis, K-Nearest Neighbors, Decision Tree, and Logistic Regression
 
