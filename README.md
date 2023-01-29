@@ -1,7 +1,13 @@
 # bank-loan-system-analytics
-In this study, a dataset of customer information from banks and credit lenders was classified and predicted using four supervised learning techniques. However, before using the data set, all Identifiers were eliminated. I used the four main supervised learning approaches for this analysis, which are as follows:
+This project aims to classify and predict customer information from banks and credit lenders using unsupervised learning techniques. The dataset used in this study, called CREDIT 14, has had all identifying information removed.
 
-Discriminant analysis, K-Nearest Neighbors, Decision Tree, and Logistic Regression
+The analysis will be conducted using R Studio and the following unsupervised learning techniques:
 
-R Studio was used to perform each of these procedures, and the provided data set is called CREDIT 14. There is a powerpoint presentation of the findings in this repository.
+Clustering (K-means)
+Decision Tree
+Logistic Regression
+Discriminant Analysis
 
+Libraries used in this analysis include 'MASS', 'rpartplot', 'CLASS','gglot2','aod'.
+
+In addition to the R code, a summary of the findings and conclusions can be found in the powerpoint presentation included in this repository. The goal of this project is to effectively classify and predict customer information in order to gain insights and make informed decisions for the associated business problems.
